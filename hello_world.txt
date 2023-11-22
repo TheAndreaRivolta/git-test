@@ -1,3 +1,3 @@
-This is the usual hello world thing 
+Hello World!
 
-bye bye
+This is my first file on Github.
